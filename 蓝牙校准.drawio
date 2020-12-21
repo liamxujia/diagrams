@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-21T10:51:47.711Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="KP1GiTa8Ihe9OaRm_zNW" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-21T10:52:00.293Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="McgicRmwIJ4tnYkZvt3e" version="14.1.1" type="github">
   <diagram id="mKj14x2aoJo5Nkw21co6" name="第 1 页">
     <mxGraphModel dx="2893" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -140,7 +140,7 @@
           <mxGeometry x="145" y="1932" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qRTRuurjYwuLesTGfliR-281" value="取消蓝牙校准失败" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;shadow=0;fontStyle=0;strokeColor=#36393d;fillColor=#ffcccc;sketch=1;fontSize=14;" vertex="1" parent="CEI2HOjb4sr5BH5UjKjR-9">
-          <mxGeometry x="160" y="2242" width="180" height="100" as="geometry" />
+          <mxGeometry x="145" y="2242" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qRTRuurjYwuLesTGfliR-76" value="车辆终端" style="swimlane;whiteSpace=wrap;fontStyle=1;fillColor=#b1ddf0;strokeColor=#10739e;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="1260" y="128" width="470" height="2442" as="geometry" />
